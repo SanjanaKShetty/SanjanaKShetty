@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Sanjana Shetty
 
-### Information Science Student | AI & Software Development | DevOps
+### Information Science Student 
 
 Building projects, learning new technologies, and turning ideas into real-world solutions.
 
