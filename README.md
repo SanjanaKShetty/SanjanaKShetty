@@ -2,17 +2,15 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:111827,100:4C1D95&height=220&section=header&text=Sanjana%20Shetty&fontSize=48&fontColor=F8FAFC&fontAlignY=38&desc=Information%20Science%20Student%20%7C%20AI%20%7C%20Software%20Development%20%7C%20DevOps&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:111827,100:4C1D95&height=220&section=header&text=Sanjana%20Shetty&fontSize=48&fontColor=F8FAFC&fontAlignY=38&desc=Information%20Science%20Student&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
 
 </div>
 
-<!-- ===================== ABOUT ME ===================== -->
-
 ## 👋 About Me
 
-I'm an Information Science student who enjoys building projects, solving problems, and exploring AI, software development, and DevOps.
+I'm an Information Science student who enjoys building projects, solving problems, learning new technologies, and turning ideas into practical solutions.
 
-I like learning by working on real-world projects and continuously improving my technical skills. I'm interested in building practical software solutions that combine technology, creativity, and problem-solving.
+I enjoy learning through real-world projects and continuously improving my technical skills.
 
 ---
 
