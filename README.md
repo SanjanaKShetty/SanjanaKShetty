@@ -1,15 +1,38 @@
-# 💫 About Me
+<div align="center">
 
-Hi! I'm an Information Science student who enjoys building projects, solving problems, and exploring AI, software development, and DevOps. I like learning by working on real-world projects and continuously improving my technical skills.
+# 👋 Hi, I'm Sanjana Shetty
+
+### Information Science Student | AI & Software Development | DevOps
+
+Building projects, learning new technologies, and turning ideas into real-world solutions.
+
+</div>
+
+---
+
+## 💫 About Me
+
+I'm an Information Science student who enjoys building projects, solving problems, and exploring AI, software development, and DevOps.
+
+I like learning by working on real-world projects and continuously improving my technical skills. I'm especially interested in creating practical applications that combine software development with AI and emerging technologies.
+
+---
 
 ## 🌐 Connect With Me
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjana-shetty-434111291/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjanashetty09072005@gmail.com)
 
-## 💻 Tech Stack
+</div>
+
+---
+
+## 🛠️ Tech Stack
 
 ### 👩‍💻 Programming Languages
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -19,6 +42,7 @@ Hi! I'm an Information Science student who enjoys building projects, solving pro
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🌐 Web Development
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -26,7 +50,8 @@ Hi! I'm an Information Science student who enjoys building projects, solving pro
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
 
-### 🤖 AI / Machine Learning
+### 🤖 AI & Machine Learning
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -37,16 +62,18 @@ Hi! I'm an Information Science student who enjoys building projects, solving pro
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 ### 🗄️ Databases
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### ☁️ Cloud & DevOps
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -56,31 +83,69 @@ Hi! I'm an Information Science student who enjoys building projects, solving pro
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 🚀 Featured Projects
+---
 
-### 🔹 RapidResQ
-AI-powered crowd management system using computer vision for real-time crowd monitoring and analysis.
+# 🚀 Featured Projects
 
-**Tech:** Python, Flask, OpenCV, YOLOv8, PyTorch, Chart.js
+### 🔹 RapidResQ — AI-Powered Crowd Management
 
-### 🔹 SmartSort AI
-AI-based waste classification system designed to identify and classify waste materials using computer vision.
+An AI-powered crowd management system designed for real-time crowd monitoring and analysis using computer vision.
 
-**Tech:** Python, TensorFlow, FastAPI, NumPy, SQLite
+**Technologies:** Python • Flask • OpenCV • YOLOv8 • PyTorch • Chart.js
 
-### 🔹 ElderCare System
-A software solution focused on improving elderly wellbeing through technology.
+🔗 [View Repository](https://github.com/Priyadarshini-L-215/RapidResQ)
 
-**Tech:** Web Development, Database Technologies
+---
+
+### 🔹 SmartSort AI — Intelligent Waste Classification
+
+An AI-based waste classification system that uses computer vision and machine learning to identify and classify waste materials.
+
+**Technologies:** Python • TensorFlow • FastAPI • NumPy • SQLite
+
+🔗 [View Repository](https://github.com/Thrinesh-18/SmartSortAi)
+
+---
+
+### 🔹 ElderCare System — Elderly Wellbeing
+
+A software solution focused on using technology to support and enhance elderly wellbeing.
+
+**Technologies:** Web Development • Database Technologies
+
+🔗 [View Repository](https://github.com/Priyanka-123457/ElderCare-System)
+
+---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=SanjanaKShetty&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
+<div align="center">
 
-![](https://streak-stats.demolab.com/?user=SanjanaKShetty&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=SanjanaKShetty&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=SanjanaKShetty&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com/?user=SanjanaKShetty&theme=tokyonight&hide_border=true)
 
-## 👀 Profile Views
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=SanjanaKShetty&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://komarev.com/ghpvc/?username=SanjanaKShetty&style=for-the-badge&color=58A6FF)
+</div>
+
+---
+
+## 🎯 Currently Learning
+
+- Data Structures & Algorithms
+- Advanced Java
+- Machine Learning & AI
+- Full Stack Development
+- Cloud & DevOps
+- Problem Solving
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+![Profile Views](https://komarev.com/ghpvc/?username=SanjanaKShetty&style=for-the-badge&color=58A6FF)
+
+</div>
